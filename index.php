@@ -1,13 +1,7 @@
 <html>
 <body>
 
-<form name='form' method='post' action="index.php">
 
-字詞: <input type="text" name="name" id="name" ><br/>
-
-<input type="submit" name="submit" value="Submit">  
-
-</form>
 
 <?php
 ini_set('memory_limit', '1024M');
